@@ -4,7 +4,7 @@ This repository hosts the Code for the paper "Core-periphery Detection Based on 
 
 ## Dependencies
 ------------
-- Numpy 1.20+
+- numpy 1.20+
 - scikit-learn 0.24+
 
 ## How to run
