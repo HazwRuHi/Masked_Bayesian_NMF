@@ -7,7 +7,7 @@ This repository hosts the Code for the paper "Core-periphery Detection Based on 
 - scikit-learn 0.24+
 
 ## How to run
-To perform core peirphery detection, you can run:
+To perform core peirphery detection on synthetic networks, you can run:
 ```
 python main.py --network_size=5000 --epochs=20 --a=5 --b=10 --sigma_overline=1 --sigma_hat=1 --mu_hat=1 --k=32
 ```
